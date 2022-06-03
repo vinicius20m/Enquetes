@@ -79,7 +79,7 @@
                         </div>
                   </div>
                   <div class="col-md-1"></div>
-                  <div class="col-md-5">
+                  <div class="col-md-3">
                         <div class="form-group">
                               <div class="gap-20"></div>
                               <label>Data de Início <span @error('start_date') style="color: red" @enderror>*</span></label>
